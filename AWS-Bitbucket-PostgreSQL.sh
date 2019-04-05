@@ -1,5 +1,7 @@
 # If we need to install bitbucket, we need minimum 2GB machines.
 
+# This has been tested on t2.medium machine - 4 GB RAM - Ubuntu OS
+
 #Login to the root
 sudo -i
 
