@@ -60,6 +60,7 @@ psql
 #=============================POSTGRESQL INSTALLATION END==========================#
 
 #=============================JIRA INSTALLATION START==============================#
+sudo -i
 
 sudo yum install wget -y
 
